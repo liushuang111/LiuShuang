@@ -10,7 +10,7 @@
     "antd": "^3.25.1",
     "babel-plugin-import": "^1.12.2",
     "dva": "^2.4.1",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "sass-loader": "^8.0.0"
